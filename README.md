@@ -1,2 +1,2 @@
 # Jogo da velha
-# criado com React.JS
+ Criado com React.JS
